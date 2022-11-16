@@ -1,14 +1,14 @@
 # Udemy TypeScript Course
 
-## Project Description
+## Project Description:
 
 This repository holds all the Typescript projects that I have been working on whilst studying a Udemy Typescript course.
 
-## Built With
+## Built With:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Authors
+## Authors:
 
 **Joshua Le Gresley** [jleg13](https://https://github.com/jleg13).
 
